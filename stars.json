@@ -1,37 +1,37 @@
 [
   {
     "full_name": "cyrildiagne/ar-cutpaste",
-    "stargazers_count": 14332,
+    "stargazers_count": 14334,
     "open_issues_count": 49,
-    "forks_count": 2036
+    "forks_count": 2038
   },
   {
     "full_name": "cnrad/lanyard-profile-readme",
-    "stargazers_count": 262,
+    "stargazers_count": 267,
     "open_issues_count": 0,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "NYRI4/Comfy",
     "stargazers_count": 242,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 56
   },
   {
     "full_name": "tannerlinsley/react-query",
-    "stargazers_count": 27274,
-    "open_issues_count": 33,
-    "forks_count": 1555
+    "stargazers_count": 27326,
+    "open_issues_count": 34,
+    "forks_count": 1564
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 584,
+    "stargazers_count": 585,
     "open_issues_count": 0,
-    "forks_count": 305
+    "forks_count": 308
   },
   {
     "full_name": "iuridepaula/portfolio",
-    "stargazers_count": 286,
+    "stargazers_count": 288,
     "open_issues_count": 2,
     "forks_count": 59
   },
@@ -43,25 +43,25 @@
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 38487,
-    "open_issues_count": 786,
-    "forks_count": 3193
+    "stargazers_count": 38515,
+    "open_issues_count": 794,
+    "forks_count": 3192
   },
   {
     "full_name": "LukeSmithxyz/voidrice",
-    "stargazers_count": 3623,
+    "stargazers_count": 3627,
     "open_issues_count": 15,
     "forks_count": 1144
   },
   {
     "full_name": "preservim/nerdtree",
-    "stargazers_count": 17089,
+    "stargazers_count": 17102,
     "open_issues_count": 37,
-    "forks_count": 1393
+    "forks_count": 1391
   },
   {
     "full_name": "tpope/vim-dispatch",
-    "stargazers_count": 2398,
+    "stargazers_count": 2401,
     "open_issues_count": 41,
     "forks_count": 138
   },
@@ -79,45 +79,45 @@
   },
   {
     "full_name": "cobidev/gatsby-simplefolio",
-    "stargazers_count": 1466,
+    "stargazers_count": 1470,
     "open_issues_count": 42,
     "forks_count": 761
   },
   {
     "full_name": "athityakumar/colorls",
-    "stargazers_count": 4080,
+    "stargazers_count": 4081,
     "open_issues_count": 59,
-    "forks_count": 310
+    "forks_count": 309
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 35417,
-    "open_issues_count": 259,
-    "forks_count": 2792
+    "stargazers_count": 35517,
+    "open_issues_count": 262,
+    "forks_count": 2799
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 63825,
-    "open_issues_count": 309,
-    "forks_count": 2815
+    "stargazers_count": 63911,
+    "open_issues_count": 311,
+    "forks_count": 2817
   },
   {
     "full_name": "webmatze/hyperborder",
-    "stargazers_count": 218,
+    "stargazers_count": 220,
     "open_issues_count": 4,
     "forks_count": 24
   },
   {
     "full_name": "ogham/exa",
-    "stargazers_count": 17722,
-    "open_issues_count": 226,
-    "forks_count": 525
+    "stargazers_count": 17783,
+    "open_issues_count": 227,
+    "forks_count": 530
   },
   {
     "full_name": "dexpota/kitty-themes",
-    "stargazers_count": 1455,
+    "stargazers_count": 1463,
     "open_issues_count": 33,
-    "forks_count": 140
+    "forks_count": 139
   },
   {
     "full_name": "rafi/awesome-vim-colorschemes",
@@ -127,51 +127,51 @@
   },
   {
     "full_name": "magenta/magenta-js",
-    "stargazers_count": 1691,
+    "stargazers_count": 1692,
     "open_issues_count": 49,
     "forks_count": 270
   },
   {
     "full_name": "safemoonprotocol/Safemoon.sol",
-    "stargazers_count": 648,
+    "stargazers_count": 650,
     "open_issues_count": 101,
-    "forks_count": 920
+    "forks_count": 922
   },
   {
     "full_name": "AFLplusplus/AFLplusplus",
-    "stargazers_count": 2703,
-    "open_issues_count": 18,
-    "forks_count": 548
+    "stargazers_count": 2712,
+    "open_issues_count": 16,
+    "forks_count": 551
   },
   {
     "full_name": "bnb/awesome-hyper",
-    "stargazers_count": 9846,
+    "stargazers_count": 9849,
     "open_issues_count": 18,
     "forks_count": 373
   },
   {
     "full_name": "expressjs/express",
-    "stargazers_count": 56963,
-    "open_issues_count": 140,
-    "forks_count": 9659
+    "stargazers_count": 57007,
+    "open_issues_count": 142,
+    "forks_count": 9665
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 660,
-    "open_issues_count": 19,
-    "forks_count": 253
+    "open_issues_count": 17,
+    "forks_count": 255
   },
   {
     "full_name": "geohot/tinygrad",
-    "stargazers_count": 5994,
-    "open_issues_count": 13,
-    "forks_count": 614
+    "stargazers_count": 5996,
+    "open_issues_count": 10,
+    "forks_count": 612
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 21483,
+    "stargazers_count": 21497,
     "open_issues_count": 26,
-    "forks_count": 1715
+    "forks_count": 1714
   },
   {
     "full_name": "loomnetwork/solidity-social-example",
